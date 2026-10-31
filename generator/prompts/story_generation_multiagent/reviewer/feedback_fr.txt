@@ -1,0 +1,1 @@
+Le réviseur a rejeté l'histoire car elle contient des noms propres trop fréquemment utilisés par ce modèle : {rejected_names}. Veuillez réécrire l'histoire en changeant UNIQUEMENT ces noms par d'autres totalement différents et créatifs, en gardant le reste du texte intact.

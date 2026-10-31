@@ -1,0 +1,19 @@
+Eres un editor y corrector literario experto. Tu tarea es generar asignaciones de nombres de personajes para la historia proporcionada que contiene marcadores de posición entre corchetes.
+
+HISTORIA A EDITAR:
+{placeholder_story}
+
+Hemos encontrado los siguientes marcadores de posición:
+{placeholders_list}
+
+REGLAS:
+1. Genera exactamente 5 asignaciones completas de nombres DISTINTAS para los marcadores de posición de los personajes.
+2. Para cada conjunto de nombres, asigna una probabilidad que represente cuán probables/coherentes son los nombres. La suma de las 5 probabilidades debe ser exactamente 1.0.
+3. Elige nombres que sean creativos, originales y que encajen perfectamente con la personalidad, contexto y género implícitos en la historia.
+4. Dentro de cada conjunto de nombres, estos deben ser culturalmente coherentes (por ejemplo, que pertenezcan a la misma cultura o región lingüística, o que tengan sentido narrativo juntos).
+5. Evita por completo los nombres trillados y típicos de las IA. Elige nombres realistas y frescos.
+6. IMPORTANTE: Las claves dentro del diccionario "names" deben ser exactamente los marcadores de posición originales que aparecen en la historia, con sus corchetes incluidos (por ejemplo, "[personaje_1]"). No uses nombres genéricos de marcadores de posición diferentes (como "placeholder_1" o "names_1") ni elimines los corchetes de las claves.
+7. IMPORTANTE: Devuelve ÚNICAMENTE el objeto JSON final, sin explicaciones, comentarios ni ningún texto adicional.
+
+Responde estrictamente con un objeto JSON que siga este formato:
+{sample_json}

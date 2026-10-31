@@ -1,0 +1,1 @@
+The reviewer rejected the story because it contains proper names used too frequently by this model: {rejected_names}. Please rewrite the story, changing ONLY these names to completely different and creative ones, keeping the rest of the text intact.

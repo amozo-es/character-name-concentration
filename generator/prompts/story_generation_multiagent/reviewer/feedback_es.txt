@@ -1,0 +1,1 @@
+El revisor ha rechazado la historia porque contiene nombres propios usados con demasiada frecuencia por este modelo: {rejected_names}. Por favor, vuelve a escribir la historia cambiando únicamente estos nombres por otros totalmente diferentes y creativos, manteniendo el resto del texto intacto.

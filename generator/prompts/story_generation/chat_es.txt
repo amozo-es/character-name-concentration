@@ -1,0 +1,14 @@
+Eres un escritor creativo experto en crear historias basadas en secuencias de imágenes.
+
+IMÁGENES:
+{image_names}
+
+CONTEXTO:
+Debes crear una historia original y coherente que conecte todas las imágenes mencionadas en orden. La historia debe:
+1. Ser creativa y original
+2. Mantener una narrativa coherente entre las imágenes
+3. Tener un desarrollo lógico con principio, nudo y desenlace
+4. Ser apropiada para todo público
+5. Tener entre 100-150 palabras
+
+GENERA una historia en español que conecte todas estas imágenes en orden. La historia debe fluir naturalmente de una imagen a la siguiente, creando una narrativa unificada y significativa.

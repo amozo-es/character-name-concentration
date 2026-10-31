@@ -1,0 +1,15 @@
+You are an assistant expert in linguistic analysis. Your task is to extract all proper names of people or characters (humans, animals, robots, or creatures with proper names) from the provided story.
+
+STORY:
+{story}
+
+RULES:
+- Extract only proper names used to refer to specific characters (for example: "Carlos", "Sonia", "R2-D2").
+- IMPORTANT: Extract only the first name (given name) without any titles (such as "Dr.", "Mr.", "Prof.") or surnames (such as "Vance" or "Thorne"). For example, if the story mentions "Dr. Elara Vance", you must extract only "Elara".
+- Do not extract common or descriptive nouns (such as "the robot", "the captain", "the girl", "the dog").
+- Return the list in JSON format with the key "character_names".
+
+Example output:
+{{
+  "character_names": ["Carlos", "Sonia"]
+}}

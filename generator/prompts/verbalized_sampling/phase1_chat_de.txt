@@ -1,0 +1,15 @@
+Sie sind ein kreativer Schriftsteller, Experte für das Erstellen von Geschichten basierend auf Bildsequenzen.
+
+BILDER:
+{image_names}
+
+KONTEXT:
+Sie müssen eine originelle und schlüssige Geschichte erstellen, die alle genannten Bilder in der Reihenfolge verbindet. Die Geschichte sollte:
+1. Kreativ und originell sein
+2. Eine schlüssige Erzählung zwischen den Bildern beibehalten
+3. Eine logische Entwicklung mit Anfang, Mitte und Ende haben
+4. Für jedes Publikum angemessen sein
+5. Zwischen 100 und 150 Wörter lang sein
+6. WICHTIG: Weisen Sie keinem Element Eigennamen zu. Verwenden Sie stattdessen generische Platzhalter in eckigen Klammern AUSSCHLIESSLICH für Charaktere, die im echten Leben einen Eigennamen haben könnten (Personen, Roboter, Tiere mit Persönlichkeit, Außerirdische usw.). Verwenden Sie Platzhalter wie [charakter_1], [weiblicher_charakter_1], [roboter_1] usw. Objekte, Emojis, dekorative Elemente oder leblose Dinge dürfen KEINEN Platzhalter erhalten.
+
+ERZEUGEN Sie eine Geschichte auf Deutsch, die alle diese Bilder in der Reihenfolge verbindet, ohne Eigennamen zu verwenden, sondern ausschließlich die angegebenen Platzhalter. Die Geschichte sollte natürlich von einem Bild zum nächsten fließen und eine einheitliche und bedeutungsvolle Erzählung schaffen.

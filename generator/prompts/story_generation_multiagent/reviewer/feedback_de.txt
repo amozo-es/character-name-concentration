@@ -1,0 +1,1 @@
+Der Prüfer hat die Geschichte abgelehnt, da sie Eigennamen enthält, die zu oft von diesem Modell verwendet werden: {rejected_names}. Bitte schreibe die Geschichte neu, indem du NUR diese Namen durch völlig andere und kreative Eigennamen ersetzt und den Rest des Textes unverändert lässt.

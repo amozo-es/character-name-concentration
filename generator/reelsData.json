@@ -1,0 +1,602 @@
+[
+    {
+        "reelName": "Reel 1",
+        "images": [
+            {
+                "url": "icons/2b486f4c31214cb596ea7caa239f4fc8.png",
+                "tag": "Typewriter",
+                "es": "Máquina de escribir",
+                "fr": "Machine à écrire",
+                "de": "Schreibmaschine"
+            },
+            {
+                "url": "icons/b4d9e2f1a7c84b5a9e6d3c0b1f7a2e8c.png",
+                "tag": "Scientist",
+                "es": "Científico",
+                "fr": "Scientifique",
+                "de": "Wissenschaftler"
+            },
+            {
+                "url": "icons/8d62bba5b6514524b62384a32ac0b8ac.png",
+                "tag": "Phoenix",
+                "es": "Fénix",
+                "fr": "Phénix",
+                "de": "Phoenix"
+            },
+            {
+                "url": "icons/5b5c64f9d76b4046864c38f170c33497.png",
+                "tag": "Backpack",
+                "es": "Mochila",
+                "fr": "Sac à dos",
+                "de": "Backpack"
+            },
+            {
+                "url": "icons/ea98a2b334744b608ed1fc691758b968.png",
+                "tag": "Heart",
+                "es": "Corazón",
+                "fr": "Cœur",
+                "de": "Herz"
+            },
+            {
+                "url": "icons/84619b7671d34fa2858051b838518b8f.png",
+                "tag": "River",
+                "es": "Río",
+                "fr": "Rivière",
+                "de": "Fluss"
+            },
+            {
+                "url": "icons/90328bdc77ed47319e8ffad92fda1bc9.png",
+                "tag": "Magic wand",
+                "es": "Varita mágica",
+                "fr": "Baguette magique",
+                "de": "Zauberstab"
+            },
+            {
+                "url": "icons/f7a3e9c1b8d24a5f9e6b3c0d1f7a2e8b.png",
+                "tag": "Witch",
+                "es": "Bruja",
+                "fr": "Sorcière",
+                "de": "Hexe"
+            },
+            {
+                "url": "icons/3e641cc1e1b84eb3b68e8a54d5921359.png",
+                "tag": "Fist",
+                "es": "Puño",
+                "fr": "Poing",
+                "de": "Faust"
+            },
+            {
+                "url": "icons/81180325d0bb4fa6a6e1660a355f8b84.png",
+                "tag": "Sun",
+                "es": "Sol",
+                "fr": "Soleil",
+                "de": "Sonne"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 2",
+        "images": [
+            {
+                "url": "icons/63a05bf84df54bc19ad70d3086cb8644.png",
+                "tag": "Confused",
+                "es": "Cara confundido/a",
+                "fr": "Confus",
+                "de": "Verwirrt"
+            },
+            {
+                "url": "icons/1344f30c124447efb6a26d353f40bb0c.png",
+                "tag": "Running",
+                "es": "Correr",
+                "fr": "Course",
+                "de": "Laufen"
+            },
+            {
+                "url": "icons/23339c608ced4f0eb0ee39e2099943ac.png",
+                "tag": "Campfire",
+                "es": "Fogata",
+                "fr": "Feu de camp",
+                "de": "Lagerfeuer"
+            },
+            {
+                "url": "icons/a32527b5df184552a7e39a462a1cffa3.png",
+                "tag": "Lightbulb",
+                "es": "Bombilla",
+                "fr": "Ampoule",
+                "de": "Glühbirne"
+            },
+            {
+                "url": "icons/24d07b86ab3e4c929795f182a39c47f0.png",
+                "tag": "Astronaut",
+                "es": "Astronauta",
+                "fr": "Astronaute",
+                "de": "Astronaut"
+            },
+            {
+                "url": "icons/a7110234e8934c6bba2041d95a463cae.png",
+                "tag": "Crystal ball",
+                "es": "Bola de cristal",
+                "fr": "Boule de cristal",
+                "de": "Kristallkugel"
+            },
+            {
+                "url": "icons/e1df87f9d6f5494480c27fffa9ab0efc.png",
+                "tag": "Surprised face",
+                "es": "Cara sorpresa",
+                "fr": "Visage surpris",
+                "de": "Überraschtes Gesicht"
+            },
+            {
+                "url": "icons/a7d14884a54f4a3d8a6e8b206dd4f442.png",
+                "tag": "Explosion",
+                "es": "Explosión",
+                "fr": "Explosion",
+                "de": "Explosion"
+            },
+            {
+                "url": "icons/5160e36952fa4885adefc81ea65a5ac3.png",
+                "tag": "Open book",
+                "es": "Libro abierto",
+                "fr": "Livre ouvert",
+                "de": "Offenes Buch"
+            },
+            {
+                "url": "icons/78226579db3e4c53b36a7700e8727097.png",
+                "tag": "Crying face",
+                "es": "Cara llorando",
+                "fr": "Visage qui pleure",
+                "de": "Weinendes Gesicht"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 3",
+        "images": [
+            {
+                "url": "icons/8d5c6a624cbc4333b8b74fc83b3d354f.png",
+                "tag": "Footprint",
+                "es": "Huella",
+                "fr": "Empreinte",
+                "de": "Footprint"
+            },
+            {
+                "url": "icons/5ec8b78dadd84c7d9ed8599ef24279d3.png",
+                "tag": "Sword",
+                "es": "Espada",
+                "fr": "Épée",
+                "de": "Schwert"
+            },
+            {
+                "url": "icons/92255f515cfa465c9446542e26a21d08.png",
+                "tag": "Road",
+                "es": "Camino",
+                "fr": "Route",
+                "de": "Road"
+            },
+            {
+                "url": "icons/8a733cdb75a04e6aa64f357ac52cbf21.png",
+                "tag": "Flag",
+                "es": "Bandera",
+                "fr": "Drapeau",
+                "de": "Flag"
+            },
+            {
+                "url": "icons/f69c5d61b33f42d6a531d8a468672e29.png",
+                "tag": "Key",
+                "es": "Llave",
+                "fr": "Clé",
+                "de": "Schlüssel"
+            },
+            {
+                "url": "icons/d2f7a1e8b4c94a5f9e6d3c0b1f7a2e8d.png",
+                "tag": "Pirate",
+                "es": "Pirata",
+                "fr": "Pirate",
+                "de": "Pirat"
+            },
+            {
+                "url": "icons/be31efc63a8840a4bff50cfdf28a32ef.png",
+                "tag": "Snowman",
+                "es": "Muñeco de nieve",
+                "fr": "Bonhomme de neige",
+                "de": "Snowman"
+            },
+            {
+                "url": "icons/c3e8a4d9f1b74a5e9d6c3b0f1a7e2d8b.png",
+                "tag": "Detective",
+                "es": "Detective",
+                "fr": "Détective",
+                "de": "Detektiv"
+            },
+            {
+                "url": "icons/e1b8d24a5f9e6b3c0d1f7a2e8b4c9e2f.png",
+                "tag": "Forest",
+                "es": "Bosque",
+                "fr": "Forêt",
+                "de": "Wald"
+            },
+            {
+                "url": "icons/93735324602f4244a847d5c6d791f369.png",
+                "tag": "Tent",
+                "es": "Tienda de campaña",
+                "fr": "Tente",
+                "de": "Tent"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 4",
+        "images": [
+            {
+                "url": "icons/15c5e5aff1cf4c7e96e40d5f717bdc77.png",
+                "tag": "Sad face",
+                "es": "Cara triste",
+                "fr": "Visage triste",
+                "de": "Sad face"
+            },
+            {
+                "url": "icons/da3d44918c144d12ac3ac5e8b9f6d7cc.png",
+                "tag": "Mountain",
+                "es": "Montaña",
+                "fr": "Montagne",
+                "de": "Berg"
+            },
+            {
+                "url": "icons/b60b6c897b5c46e48176d3e0b9741a0f.png",
+                "tag": "Apple",
+                "es": "Manzana",
+                "fr": "Pomme",
+                "de": "Apfel"
+            },
+            {
+                "url": "icons/09233a8cd8564ac78be17e2f1ed6da5c.png",
+                "tag": "Rocket",
+                "es": "Cohete",
+                "fr": "Fusée",
+                "de": "Rakete"
+            },
+            {
+                "url": "icons/2addbbe66ede47c3bb529fd439478653.png",
+                "tag": "Broken heart",
+                "es": "Corazón roto",
+                "fr": "Cœur brisé",
+                "de": "Broken heart"
+            },
+            {
+                "url": "icons/8f2ea2192e544228815f86fc1ff57673.png",
+                "tag": "Train",
+                "es": "Tren",
+                "fr": "Train",
+                "de": "Zug"
+            },
+            {
+                "url": "icons/a5f9e6b3c0d1f7a2e8b4c9e2f1a7d3c8.png",
+                "tag": "Ghost",
+                "es": "Fantasma",
+                "fr": "Fantôme",
+                "de": "Gespenst"
+            },
+            {
+                "url": "icons/997f7d5cc969458a97ba2d412982ccd7.png",
+                "tag": "Winking face",
+                "es": "Cara guiñando",
+                "fr": "Visage haciendo un clin d'œil",
+                "de": "Winking face"
+            },
+            {
+                "url": "icons/803f69eb5e234093a562ac5bf813a412.png",
+                "tag": "Water drop",
+                "es": "Gota de agua",
+                "fr": "Goutte d'eau",
+                "de": "Water drop"
+            },
+            {
+                "url": "icons/10c9cb3053da4441823e70d5d11ce8ba.png",
+                "tag": "Candle",
+                "es": "Vela",
+                "fr": "Bougie",
+                "de": "Kerze"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 5",
+        "images": [
+            {
+                "url": "icons/75297b09d4f84ec29b1e7aea300d92d8.png",
+                "tag": "Motorcycle",
+                "es": "Motocicleta",
+                "fr": "Moto",
+                "de": "Motorcycle"
+            },
+            {
+                "url": "icons/29b773fe3e0441548025435edbcf8486.png",
+                "tag": "Evil face",
+                "es": "Cara malvada",
+                "fr": "Visage maléfique",
+                "de": "Evil face"
+            },
+            {
+                "url": "icons/e8586002031a4e0ba19233ef9b6e1190.png",
+                "tag": "Cloud",
+                "es": "Nube",
+                "fr": "Nuage",
+                "de": "Wolke"
+            },
+            {
+                "url": "icons/3f7e62f7798e4471a04f9a3f3f9fe6cc.png",
+                "tag": "Tree",
+                "es": "Árbol",
+                "fr": "Arbre",
+                "de": "Baum"
+            },
+            {
+                "url": "icons/4f5e2cc743744ea0a06955ddbe5f7dca.png",
+                "tag": "Boat",
+                "es": "Barco",
+                "fr": "Bateau",
+                "de": "Boat"
+            },
+            {
+                "url": "icons/63c2b2c4cfa149e089ad9a8f0ad417b0.png",
+                "tag": "Cave",
+                "es": "Cueva",
+                "fr": "Grotte",
+                "de": "Cave"
+            },
+            {
+                "url": "icons/62ac3d3233c345199fd00e9e7723b649.png",
+                "tag": "Eye",
+                "es": "Ojo",
+                "fr": "Œil",
+                "de": "Eye"
+            },
+            {
+                "url": "icons/e5b9d7f038a14cf19ae828a7368e7128.png",
+                "tag": "Map",
+                "es": "Mapa",
+                "fr": "Carte",
+                "de": "Karte"
+            },
+            {
+                "url": "icons/e897e34d6c994ddd8632851871b826ba.png",
+                "tag": "Compass",
+                "es": "Brújula",
+                "fr": "Boussole",
+                "de": "Kompass"
+            },
+            {
+                "url": "icons/f31d77e08f1447dab9f149bc64bf7f96.png",
+                "tag": "Ninja",
+                "es": "Ninja",
+                "fr": "Ninja",
+                "de": "Ninja"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 6",
+        "images": [
+            {
+                "url": "icons/76d672e46aa541a5a6e0076be9cf8b5d.png",
+                "tag": "Wave",
+                "es": "Ola",
+                "fr": "Vague",
+                "de": "Wave"
+            },
+            {
+                "url": "icons/8f76b8f833d44335a189c6ca9029c63a.png",
+                "tag": "Wizard hat",
+                "es": "Sombrero de mago",
+                "fr": "Chapeau de magicien",
+                "de": "Wizard hat"
+            },
+            {
+                "url": "icons/b744d1d0686d4e6aaecb09c13f46824b.png",
+                "tag": "Alien",
+                "es": "Extraterrestre",
+                "fr": "Extraterrestre",
+                "de": "Außerirdischer"
+            },
+            {
+                "url": "icons/734abf8484f9424a83276854dd0e03f0.png",
+                "tag": "Flower",
+                "es": "Flor",
+                "fr": "Fleur",
+                "de": "Blume"
+            },
+            {
+                "url": "icons/a816285b55974a038f53179193c6f182.png",
+                "tag": "Angry face",
+                "es": "Cara enfadada",
+                "fr": "Visage en colère",
+                "de": "Angry face"
+            },
+            {
+                "url": "icons/574deb9ce1584655a35e69e3a343cf9b.png",
+                "tag": "Unicorn",
+                "es": "Unicornio",
+                "fr": "Licorne",
+                "de": "Einhorn"
+            },
+            {
+                "url": "icons/8c8deeea36d543b3a1da863e5892bee7.png",
+                "tag": "Castle",
+                "es": "Castillo",
+                "fr": "Château",
+                "de": "Schloss"
+            },
+            {
+                "url": "icons/b3c0d1f7a2e8b4c9e2f1a7d3c8a5e9f6.png",
+                "tag": "Explorer",
+                "es": "Explorador/a",
+                "fr": "Explorateur",
+                "de": "Entdecker"
+            },
+            {
+                "url": "icons/467d899d3b194a579a8cb7e35a11b872.png",
+                "tag": "Snowflake",
+                "es": "Copo de nieve",
+                "fr": "Flocon de neige",
+                "de": "Schneeflocke"
+            },
+            {
+                "url": "icons/b0812a421ccf46fda188823a1b09da1f.png",
+                "tag": "Laughing face",
+                "es": "Cara riendo",
+                "fr": "Visage rieur",
+                "de": "Lachendes Gesicht"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 7",
+        "images": [
+            {
+                "url": "icons/02593f6e88d04c82b342eb6a212aa068.png",
+                "tag": "Laser gun",
+                "es": "Pistola láser",
+                "fr": "Pistolet laser",
+                "de": "Laserpistole"
+            },
+            {
+                "url": "icons/02593f6e88d04c82b342eb6a212aa067.png",
+                "tag": "Spaceship",
+                "es": "Nave espacial",
+                "fr": "Vaisseau spatial",
+                "de": "Raumschiff"
+            },
+            {
+                "url": "icons/6c57fad9bd2b437f9d51f808a348315f.png",
+                "tag": "Cowboy hat",
+                "es": "Sombrero vaquero",
+                "fr": "Chapeau de cowboy",
+                "de": "Cowboyhut"
+            },
+            {
+                "url": "icons/1af40c6f81104408800adc004b707b6f.png",
+                "tag": "Raining Cloud",
+                "es": "Nube con lluvia",
+                "fr": "Nuage pluvieux",
+                "de": "Regenwolke"
+            },
+            {
+                "url": "icons/0b42c200ca754f4fb5b0db08aac6e2d5.png",
+                "tag": "Moon",
+                "es": "Luna",
+                "fr": "Lune",
+                "de": "Mond"
+            },
+            {
+                "url": "icons/f2a8b4c9e2f1a7d3c8a5e9f6b3c0d1f7.png",
+                "tag": "Skull",
+                "es": "Calavera",
+                "fr": "Crâne",
+                "de": "Totenkopf"
+            },
+            {
+                "url": "icons/98a70b39054b487fad628a9e97fd412f.png",
+                "tag": "Beach",
+                "es": "Playa",
+                "fr": "Plage",
+                "de": "Strand"
+            },
+            {
+                "url": "icons/f23f73140b404cdaa3af37e693572248.png",
+                "tag": "Leaf",
+                "es": "Hoja",
+                "fr": "Feuille",
+                "de": "Blatt"
+            },
+            {
+                "url": "icons/11e038d2ef7349989b32a083e52f8fca.png",
+                "tag": "Smiley face",
+                "es": "Cara sonriente",
+                "fr": "Visage souriant",
+                "de": "Lächelndes Gesicht"
+            },
+            {
+                "url": "icons/d1f7a2e8b4c9e2f1a7d3c8a5e9f6b3c0.png",
+                "tag": "Fairy",
+                "es": "Hada",
+                "fr": "Fée",
+                "de": "Fee"
+            }
+        ]
+    },
+    {
+        "reelName": "Reel 8",
+        "images": [
+            {
+                "url": "icons/182c0953bd9344708ceba1582056e417.png",
+                "tag": "Feather",
+                "es": "Pluma",
+                "fr": "Plume",
+                "de": "Feder"
+            },
+            {
+                "url": "icons/3661e742b59941418e362ea30e528fab.png",
+                "tag": "Robot",
+                "es": "Robot",
+                "fr": "Robot",
+                "de": "Roboter"
+            },
+            {
+                "url": "icons/dfb432cae55e4364b17162c6401395a1.png",
+                "tag": "Crown",
+                "es": "Corona",
+                "fr": "Couronne",
+                "de": "Krone"
+            },
+            {
+                "url": "icons/e2f1a7d3c8a5e9f6b3c0d1f7a2e8b4c9.png",
+                "tag": "Luck",
+                "es": "Suerte",
+                "fr": "Chance",
+                "de": "Glück"
+            },
+            {
+                "url": "icons/5c7a52dcd2774e0799297efaefbc6f8e.png",
+                "tag": "Binoculars",
+                "es": "Prismáticos",
+                "fr": "Jumelles",
+                "de": "Fernglas"
+            },
+            {
+                "url": "icons/e9f6b3c0d1f7a2e8b4c9e2f1a7d3c8a5.png",
+                "tag": "Prison",
+                "es": "Prisión",
+                "fr": "Prison",
+                "de": "Gefängnis"
+            },
+            {
+                "url": "icons/c8a5e9f6b3c0d1f7a2e8b4c9e2f1a7d3.png",
+                "tag": "Desert Island",
+                "es": "Isla desierta",
+                "fr": "Île déserte",
+                "de": "Einsame Insel"
+            },
+            {
+                "url": "icons/b183356f43644ced8a5f188df6ef6c0b.png",
+                "tag": "Dragon",
+                "es": "Dragón",
+                "fr": "Dragon",
+                "de": "Drache"
+            },
+            {
+                "url": "icons/cae1f7de41bc41e0886bab6f369ec1c4.png",
+                "tag": "Rainbow",
+                "es": "Arcoíris",
+                "fr": "Arc-en-ciel",
+                "de": "Regenbogen"
+            },
+            {
+                "url": "icons/a7d3c8a5e9f6b3c0d1f7a2e8b4c9e2f1.png",
+                "tag": "Shield",
+                "es": "Escudo",
+                "fr": "Bouclier",
+                "de": "Schild"
+            }
+        ]
+    }
+]

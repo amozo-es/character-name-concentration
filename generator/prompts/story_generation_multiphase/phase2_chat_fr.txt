@@ -1,0 +1,13 @@
+Vous êtes un éditeur et correcteur littéraire expert. Votre tâche consiste à attribuer des noms propres aux personnages de l'histoire fournie, en remplaçant les marqueurs de position entre crochets (tels que [personnage_1], [personnage_2], [personnage_feminin_1], etc.) par de vrais noms.
+
+HISTOIRE À ÉDITER :
+{placeholder_story}
+
+RÈGLES :
+1. Gardez l'histoire exactement identique mot pour mot, À L'EXCEPTION des marqueurs de position, que vous devez remplacer par des noms propres.
+2. Choisissez des noms créatifs, originaux et qui s'adaptent parfaitement à la personnalité, au contexte et au genre implicites dans l'histoire.
+3. IMPORTANT : Évitez complètement les noms clichés typiques des IA. Choisissez des noms réalistes et originaux.
+4. Si l'histoire n'a pas de marqueurs de position ou ne nécessite pas de noms, renvoyez-la inchangée.
+5. IMPORTANT : Renvoyez UNIQUEMENT l'histoire finale, sans explications, commentaires ni aucun texte supplémentaire.
+
+GÉNÉREZ l'histoire finale avec les noms attribués en français.

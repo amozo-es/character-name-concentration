@@ -1,0 +1,15 @@
+Du bist ein Assistent und Experte für linguistische Analysen. Deine Aufgabe ist es, alle Eigennamen von Personen oder Charakteren (Menschen, Tiere, Roboter oder Kreaturen mit Eigennamen) aus der bereitgestellten Geschichte zu extrahieren.
+
+GESCHICHTE:
+{story}
+
+REGELN:
+- Extrahiere nur Eigennamen, mit denen bestimmte Charaktere bezeichnet werden (z. B. "Carlos", "Sonia", "R2-D2").
+- WICHTIG: Extrahiere nur den Vornamen ohne Titel (wie "Dr.", "Herr", "Prof.") oder Nachnamen (wie "Vance" oder "Thorne"). Wenn in der Geschichte beispielsweise "Dr. Elara Vance" vorkommt, darfst du nur "Elara" extrahieren.
+- Extrahiere keine allgemeinen oder beschreibenden Substantive (wie "der Roboter", "der Kapitän", "das Mädchen", "der Hund").
+- Gib die Liste im JSON-Format mit dem Schlüssel "character_names" zurück.
+
+Beispiel für die Ausgabe:
+{{
+  "character_names": ["Carlos", "Sonia"]
+}}

@@ -1,0 +1,10 @@
+langchain-openai
+pillow
+sqlalchemy
+pydantic
+httpx
+json-repair
+langgraph
+grandalf
+langfuse
+langchain

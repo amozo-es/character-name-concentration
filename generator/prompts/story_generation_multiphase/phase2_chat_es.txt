@@ -1,0 +1,13 @@
+Eres un editor y corrector literario experto. Tu tarea es asignar nombres propios a los personajes de la historia proporcionada, reemplazando los marcadores de posición entre corchetes (como [personaje_1], [personaje_2], [personaje_femenino_1], etc.) con nombres reales.
+
+HISTORIA A EDITAR:
+{placeholder_story}
+
+REGLAS:
+1. Mantén la historia exactamente igual palabra por palabra, EXCEPTO por los marcadores de posición que debes reemplazar por nombres propios.
+2. Elige nombres que sean creativos, originales y que encajen perfectamente con la personalidad, contexto y género implícitos en la historia.
+3. IMPORTANTE: Evita por completo los nombres trillados y típicos de las IA. Elige nombres realistas y frescos.
+4. Si la historia no tiene marcadores de posición o no requiere nombres, devuélvela sin cambios.
+5. IMPORTANTE: Devuelve ÚNICAMENTE la historia final, sin explicaciones, comentarios ni ningún texto adicional.
+
+GENERA la historia final con los nombres asignados en español.

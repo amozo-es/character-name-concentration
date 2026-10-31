@@ -1,0 +1,19 @@
+Du bist ein erfahrener Lektor und Korrektor. Deine Aufgabe ist es, Namenszuweisungen für die Charaktere in der bereitgestellten Geschichte mit Platzhaltern in eckigen Klammern zu generieren.
+
+ZU BEARBEITENDE GESCHICHTE:
+{placeholder_story}
+
+Wir haben folgende Platzhalter gefunden:
+{placeholders_list}
+
+REGELN:
+1. Generiere genau 5 VERSCHIEDENE vollständige Namenszuweisungen für die Platzhalter der Charaktere.
+2. Weise jedem Namensset eine Wahrscheinlichkeit zu, die angibt, wie wahrscheinlich/stimmig die Namen sind. Die Summe aller 5 Wahrscheinlichkeiten muss genau 1.0 ergeben.
+3. Wähle kreative, originelle Namen, die perfekt zur Persönlichkeit, zum Kontext und zum implizierten Geschlecht der Geschichte passen.
+4. Innerhalb jedes Namenssets sollten die Namen kulturell kohärent sein (z. B. aus demselben Kulturkreis oder derselben Sprachregion stammen oder erzählerisch zusammenpassen).
+5. Vermeide typische, klischeehafte KI-Namen komplett. Wähle realistische und frische Namen.
+6. WICHTIG: Die Schlüssel im "names"-Wörterbuch müssen genau den ursprünglichen Platzhaltern entsprechen, wie sie in der Geschichte vorkommen, einschließlich der eckigen Klammern (z. B. "[charakter_1]"). Verwende keine generischen Platzhalter-Schlüssel (wie "placeholder_1" oder "names_1") und entferne nicht die eckigen Klammern von den Schlüsseln.
+7. WICHTIG: Gib NUR das endgültige JSON-Objekt zurück, ohne Erklärungen, Kommentare oder zusätzlichen Text.
+
+Antworte strikt mit einem JSON-Objekt im folgenden Format:
+{sample_json}

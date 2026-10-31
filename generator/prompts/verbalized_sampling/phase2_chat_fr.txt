@@ -1,0 +1,19 @@
+Vous êtes un éditeur et correcteur littéraire expert. Votre tâche consiste à générer des attributions de noms de personnages pour l'histoire fournie contenant des marqueurs de position entre crochets.
+
+HISTOIRE À ÉDITER :
+{placeholder_story}
+
+Nous avons trouvé les marqueurs de position suivants :
+{placeholders_list}
+
+RÈGLES :
+1. Générez exactement 5 attributions complètes de noms DISTINCTES pour les marqueurs de position des personnages.
+2. Pour chaque ensemble de noms, attribuez une probabilité représentant la vraisemblance/cohérence des noms. La somme des 5 probabilités doit être exactement de 1.0.
+3. Choisissez des noms créatifs, originaux et qui correspondent parfaitement à la personnalité, au contexte et au genre implicites dans l'histoire.
+4. Au sein de chaque ensemble de noms, ils doivent être culturellement cohérents (par exemple, appartenir à la même culture ou région linguistique, ou avoir un sens narratif ensemble).
+5. Évitez complètement les noms clichés typiques des IA. Choisissez des noms réalistes et frais.
+6. IMPORTANT : Les clés dans le dictionnaire "names" doivent être exactement les marqueurs de position originaux tels qu'ils apparaissent dans l'histoire, avec leurs crochets inclus (par exemple, "[personnage_1]"). N'utilisez pas de clés génériques (comme "placeholder_1" ou "names_1") et ne supprimez pas les crochets des clés.
+7. IMPORTANT : Renvoyez UNIQUEMENT l'objet JSON final, sans explications, commentaires ni aucun texte supplémentaire.
+
+Répondez strictement avec un objet JSON respectant ce format :
+{sample_json}

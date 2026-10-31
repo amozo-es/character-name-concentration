@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GPT-OSS:20b",
+    "base_url": "http://localhost:11434/v1",
+    "model": "gpt-oss:20b",
+    "model_type": ["chat"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama",
+    "think": false
+  },
+  {
+    "name": "GPT-OSS:20b Thinking",
+    "base_url": "http://localhost:11434/v1",
+    "model": "gpt-oss:20b",
+    "model_type": ["chat"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama"
+  },
+  {
+    "name": "Llama 3.3:70b",
+    "base_url": "http://localhost:11434/v1",
+    "model": "llama3.3:latest",
+    "model_type": ["chat"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama"
+  },
+  {
+    "name": "Qwen 3.6:35b",
+    "base_url": "http://localhost:11434/v1",
+    "model": "qwen3.6:35b",
+    "model_type": ["chat", "vision"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama",
+    "think": false
+  },
+  {
+    "name": "Qwen 3.6:35b Thinking",
+    "base_url": "http://localhost:11434/v1",
+    "model": "qwen3.6:35b",
+    "model_type": ["chat", "vision"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama"
+  },
+  {
+    "name": "Nemotron 3:33b",
+    "base_url": "http://localhost:11434/v1",
+    "model": "nemotron3:33b",
+    "model_type": ["chat"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama",
+    "think": false
+  },
+  {
+    "name": "Nemotron 3:33b Thinking",
+    "base_url": "http://localhost:11434/v1",
+    "model": "nemotron3:33b",
+    "model_type": ["chat"],
+    "api_key": "OLLAMA_APIKEY",
+    "provider": "ollama"
+  }
+]

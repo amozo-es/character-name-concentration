@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Qwen3.5:4b",
+    "base_url": "http://localhost:1234/v1",
+    "model": "qwen3.5:4b",
+    "model_type": ["chat"],
+    "api_key": "kkk",
+    "provider": "ollama",
+    "think": false
+  }
+]

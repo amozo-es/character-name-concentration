@@ -1,0 +1,19 @@
+You are an expert editor and proofreader. Your task is to generate character name assignments for the provided story with bracketed placeholders.
+
+STORY TO EDIT:
+{placeholder_story}
+
+We found the following placeholders:
+{placeholders_list}
+
+RULES:
+1. Generate exactly 5 DISTINCT complete name assignments for the character placeholders.
+2. For each name set, assign a probability representing how likely/coherent the names are. The sum of all 5 probabilities must be exactly 1.0.
+3. Choose names that are creative, original, and fit perfectly with the personality, context, and gender implied in the story.
+4. Within each set of names, they should be culturally coherent (e.g. they belong to the same culture or linguistic region, or make narrative sense together).
+5. Avoid typical, clichéd AI names. Choose realistic and fresh names.
+6. IMPORTANT: The keys inside the 'names' dictionary must be exactly the original placeholders as they appear in the story, including their brackets (e.g., "[character_1]"). Do not use generic placeholder keys (like "placeholder_1" or "names_1") and do not remove the brackets from the keys.
+7. IMPORTANT: Return ONLY the final JSON object, without explanations, comments, or any additional text.
+
+Respond strictly with a JSON object following this format:
+{sample_json}

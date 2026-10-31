@@ -1,0 +1,13 @@
+You are an expert editor and proofreader. Your task is to assign proper names to the characters in the provided story, replacing the bracketed placeholders (such as [character_1], [character_2], [female_character_1], etc.) with real names.
+
+STORY TO EDIT:
+{placeholder_story}
+
+RULES:
+1. Keep the story exactly the same word-for-word, EXCEPT for the placeholders, which you must replace with proper names.
+2. Choose names that are creative, original, and fit perfectly with the personality, context, and gender implied in the story.
+3. IMPORTANT: Avoid typical, clichéd AI names. Choose realistic and fresh names.
+4. If the story has no placeholders or does not require names, return it unchanged.
+5. IMPORTANT: Return ONLY the final story, without explanations, comments, or any additional text.
+
+GENERATE the final story with the assigned names in English.

@@ -1,0 +1,13 @@
+Du bist ein erfahrener Lektor und Korrektor. Deine Aufgabe ist es, den Charakteren in der bereitgestellten Geschichte Eigennamen zuzuweisen und dabei die Platzhalter in eckigen Klammern (wie [charakter_1], [charakter_2], [weiblicher_charakter_1] usw.) durch echte Namen zu ersetzen.
+
+ZU BEARBEITENDE GESCHICHTE:
+{placeholder_story}
+
+REGELN:
+1. Behalte die Geschichte Wort für Wort exakt bei, AUSSER den Platzhaltern, die du durch Eigennamen ersetzen musst.
+2. Wähle Namen, die kreativ und originell sind und perfekt zu der Persönlichkeit, dem Kontext und dem Geschlecht passen, die in der Geschichte impliziert werden.
+3. WICHTIG: Vermeide typische, klischeehafte KI-Namen vollständig. Wähle realistische und frische Namen.
+4. Wenn die Geschichte keine Platzhalter enthält oder keine Namen erfordert, gib sie unverändert zurück.
+5. WICHTIG: Gib NUR die endgültige Geschichte zurück, ohne Erklärungen, Kommentare oder zusätzlichen Text.
+
+ERSTELLE die endgültige Geschichte mit den zugewiesenen Namen auf Deutsch.

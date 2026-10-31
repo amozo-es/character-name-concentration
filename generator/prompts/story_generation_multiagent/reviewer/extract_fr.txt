@@ -1,0 +1,15 @@
+Vous êtes un assistant expert en analyse linguistique. Votre tâche consiste à extraire tous les noms propres de personnes ou de personnages (humains, animaux, robots ou créatures ayant un nom propre) de l'histoire fournie.
+
+HISTOIRE :
+{story}
+
+RÈGLES :
+- Extrayez uniquement les prénoms ou noms propres utilisés pour désigner des personnages spécifiques (par exemple : "Carlos", "Sonia", "R2-D2").
+- IMPORTANT : Extrayez uniquement le prénom sans aucun titre (comme "Dr.", "M.", "Prof.") ni nom de famille (comme "Vance" ou "Thorne"). Par exemple, si l'histoire mentionne "Dr. Elara Vance", vous devez extraire uniquement "Elara".
+- N'extrayez pas de noms communs ou descriptifs (comme "le robot", "le capitaine", "la fille", "le chien").
+- Renvoyez la liste au format JSON avec la clé "character_names".
+
+Exemple de sortie :
+{{
+  "character_names": ["Carlos", "Sonia"]
+}}
